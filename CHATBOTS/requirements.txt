@@ -1,0 +1,12 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+openai
+streamlit 
+PyPDF2
+pandas 
+speechrecognition 
+pyaudio
